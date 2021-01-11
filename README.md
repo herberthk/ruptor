@@ -1,3 +1,3 @@
 # Google search clone app
 
-> This app makes search from wikipedia
+### A google search clone app that leverages Wikipedia
